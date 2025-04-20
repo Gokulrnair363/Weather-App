@@ -6,6 +6,9 @@
   font-size: larger;
   font-weight: 720;
 }
+::-webkit-scrollbar {
+  display: none;
+}
 
 @keyframes shadowPulse {
   0%, 100% {
